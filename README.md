@@ -31,5 +31,15 @@
 
 
 
+## UPDATE HELM CHART AND TRIGGER JENKINS PIPELINE
+
+* Open the values.yml file in your webapp folder and increase count to 3
+<img width="1569" height="535" alt="image" src="https://github.com/user-attachments/assets/6dfb3eb1-a2bf-4607-b7db-6b0a8e073706" />
+
+* Edit your templates/deployment.yaml file
+  <img width="1433" height="367" alt="image" src="https://github.com/user-attachments/assets/fcc49fbe-7eb6-4f5d-857f-43e15be36533" />
+
+* Commit and push your changes
+  
 
 
